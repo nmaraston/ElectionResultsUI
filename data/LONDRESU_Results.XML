@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Owner xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="file:/C:/ELECDATA/ElectionResults.xsd" id="0" name="ERM Results XML File version 2.1">
+    <ReportTime>2014-04-16T20:08:27Z</ReportTime>
+    <PartyMap>
+       <Party id="1" altId="" altId2="" abbrv="NON" name="NONPARTISAN" partyBallotsCast="0" partyRegistration="0" partyCastPercentage="00.0" partyReportedRegistration="0" partyReportedPercentage="00.0"></Party>
+    </PartyMap>
+    <JurisdictionMap totalJurisdictions="1" reportingJurisdictions="1" percentReported="100.00">
+        <Jurisdiction id="0" title="City of London" typeId="2" totalBallotsCast="55" totalRegistration="0" totalCastPercentage="00.0" reportedRegistration="0" reportedPercentage="00.0" totalPrecincts="2" precinctsReported="2" precinctsReportedPercentage="100.00">
+            <Precinct id="1" ballotsCast="10" castPercentage="00.0" altId2="" counted="1" regVoters="0" name="Poll 1">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="10" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="2" ballotsCast="45" castPercentage="00.0" altId2="" counted="1" regVoters="0" name="Poll 2">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="45" castPercentage="00.0" />
+            </Precinct>
+        </Jurisdiction>
+    </JurisdictionMap>
+    <Election id="0" electionName="LONDRESU" electionTitle="" final="0" totalBallotsCast="55" totalRegistration="0" totalCastPercentage="00.0" reportedRegistration="0" reportedPercentage="00.0" totalPrecincts="2" precinctsReported="2" precinctsReportedPercentage="100.00">
+        <ContestList>
+            <Contest id="101" altId2="" partyId="1" stateWide="1" title="Favourite Pizza" typeCode="" voteFor="3" runoff="0" ballotsCast="18" castPercentage="00.0" writeinVotes="0" overVotes="0" underVotes="0">
+                <Candidate id="1" altId2="" pos="1" name="Bacon" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">0</Votes>
+                </Candidate>
+                <Candidate id="2" altId2="" pos="2" name="Green Pepper" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">1</Votes>
+                </Candidate>
+                <Candidate id="3" altId2="" pos="3" name="Hot Pepper" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">2</Votes>
+                </Candidate>
+                <Candidate id="4" altId2="" pos="4" name="Mushroom" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">3</Votes>
+                </Candidate>
+                <Candidate id="5" altId2="" pos="5" name="Olive" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">4</Votes>
+                </Candidate>
+                <Candidate id="6" altId2="" pos="6" name="Onion" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">5</Votes>
+                </Candidate>
+                <Candidate id="7" altId2="" pos="7" name="Pepperoni" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">6</Votes>
+                </Candidate>
+                <Candidate id="8" altId2="" pos="8" name="Pineapple" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">7</Votes>
+                </Candidate>
+                <Candidate id="9" altId2="" pos="9" name="Sausage" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">8</Votes>
+                </Candidate>
+                <Candidate id="10" altId2="" pos="10" name="Tomato" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">9</Votes>
+                </Candidate>
+            </Contest>
+            <Contest id="102" altId2="" partyId="1" stateWide="1" title="Favourite Beverage" typeCode="" voteFor="1" runoff="0" ballotsCast="21" castPercentage="00.0" writeinVotes="0" overVotes="0" underVotes="0">
+                <Candidate id="1" altId2="" pos="1" name="Cola" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">0</Votes>
+                </Candidate>
+                <Candidate id="2" altId2="" pos="2" name="Diet Cola" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">1</Votes>
+                </Candidate>
+                <Candidate id="3" altId2="" pos="3" name="Ginger Ale" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">2</Votes>
+                </Candidate>
+                <Candidate id="4" altId2="" pos="4" name="Iced Tea" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">3</Votes>
+                </Candidate>
+                <Candidate id="5" altId2="" pos="5" name="Lemon Lime" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">4</Votes>
+                </Candidate>
+                <Candidate id="6" altId2="" pos="6" name="Root Beer" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">5</Votes>
+                </Candidate>
+            </Contest>
+        </ContestList>
+    </Election>
+</Owner>
