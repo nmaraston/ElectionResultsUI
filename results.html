@@ -129,9 +129,12 @@
 				html += "<table>"
 				for (var i = 0; i < contestJSON.candidates.length; i++) {
 					var candidate = contestJSON.candidates[i];
+
 					html += "<tr>";
 					html += "<td>" + candidate.name + "</td>";
-					html += "<td>" + candidate.votes + "</td>";
+					if (candidate.name !== "ACCLAIMED") {
+						html += "<td>" + candidate.votes + "</td>";
+					}
 					html += "</tr>";
 				}
 				html += "</table>";
