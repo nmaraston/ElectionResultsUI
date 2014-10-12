@@ -69,7 +69,7 @@
 
 						var candidateELM = candidateELMs[j];
 						var candidateJSON = {};
-						candidateJSON["name"] = candidateELM.getAttribute("name");
+						candidateJSON.name = candidateELM.getAttribute("name");
 
 						var voteCount = 0;
 						votesELMs = candidateELM.getElementsByTagName("Votes");
@@ -78,13 +78,18 @@
 						}
 
 						candidateJSON["votes"] = voteCount;
-						contestJSON["candidates"].push(candidateJSON);
+						contestJSON.candidates.push(candidateJSON);
 					}
 
-					electionJSON["contests"].push(contestJSON);
+					// Sort candidate non-ascending order by number of votes
+					contestJSON.candidates.sort(function(candidate1, candidate2){
+						return candidate2.votes - candidate1.votes;
+					});
+
+					electionJSON.contests.push(contestJSON);
 				}
 
-				resultsModelJSON["election"] = electionJSON;
+				resultsModelJSON.election = electionJSON;
 				return resultsModelJSON;
 			};
 
@@ -92,6 +97,7 @@
 			 *
 			 */
 			var renderResults = function(resultsModel) {
+
 				document.getElementById("content").innerHTML = renderElectionHTML(resultsModel.election);
 			};
 
