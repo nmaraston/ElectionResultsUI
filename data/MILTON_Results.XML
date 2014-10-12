@@ -1,0 +1,1742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Owner xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="file:/C:/ELECDATA/ElectionResults.xsd" id="2014" name="ERM Results XML File version 2.1">
+    <ReportTime>2014-10-07T21:43:14Z</ReportTime>
+    <PartyMap>
+       <Party id="1" altId="" altId2="" abbrv="NR" name="NON-RESIDENT" partyBallotsCast="0" partyRegistration="0" partyCastPercentage="00.0" partyReportedRegistration="0" partyReportedPercentage="00.0"></Party>
+       <Party id="2" altId="" altId2="" abbrv="EP" name="ENGLISH PUBLIC" partyBallotsCast="0" partyRegistration="0" partyCastPercentage="00.0" partyReportedRegistration="0" partyReportedPercentage="00.0"></Party>
+       <Party id="3" altId="" altId2="" abbrv="ES" name="ENGLISH SEPARATE" partyBallotsCast="0" partyRegistration="0" partyCastPercentage="00.0" partyReportedRegistration="0" partyReportedPercentage="00.0"></Party>
+       <Party id="4" altId="" altId2="" abbrv="FP" name="FRENCH PUBLIC" partyBallotsCast="0" partyRegistration="0" partyCastPercentage="00.0" partyReportedRegistration="0" partyReportedPercentage="00.0"></Party>
+       <Party id="5" altId="" altId2="" abbrv="FS" name="FRENCH SEPARATE" partyBallotsCast="0" partyRegistration="0" partyCastPercentage="00.0" partyReportedRegistration="0" partyReportedPercentage="00.0"></Party>
+    </PartyMap>
+    <JurisdictionMap totalJurisdictions="1" reportingJurisdictions="1" percentReported="100.00">
+        <Jurisdiction id="20140" title="Town of Milton" typeId="2" totalBallotsCast="2568" totalRegistration="0" totalCastPercentage="00.0" reportedRegistration="0" reportedPercentage="00.0" totalPrecincts="42" precinctsReported="10" precinctsReportedPercentage="23.81">
+            <Precinct id="1" ballotsCast="40" castPercentage="00.0" altId2="" counted="1" regVoters="0" name="1-1 - Bishop P. F. Reding Secondary">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="8" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="8" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="8" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="8" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="8" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="2" ballotsCast="40" castPercentage="00.0" altId2="" counted="1" regVoters="0" name="1-2 - Beaty Branch Library">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="8" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="8" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="8" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="8" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="8" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="3" ballotsCast="0" castPercentage="00.0" altId2="" counted="0" regVoters="0" name="1-3 - Hawthorne Village Public">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="4" ballotsCast="0" castPercentage="00.0" altId2="" counted="0" regVoters="0" name="2-1 - Holy Rosary Catholic Sch">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="5" ballotsCast="0" castPercentage="00.0" altId2="" counted="0" regVoters="0" name="2-2 - Holy Rosary Catholic Sch">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="6" ballotsCast="0" castPercentage="00.0" altId2="" counted="0" regVoters="0" name="2-3 - Hugh Foster Hall">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="7" ballotsCast="0" castPercentage="00.0" altId2="" counted="0" regVoters="0" name="2-4 - Milton District High Sch">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="8" ballotsCast="0" castPercentage="00.0" altId2="" counted="0" regVoters="0" name="2-5 - Our Lady of Victory Cath">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="9" ballotsCast="0" castPercentage="00.0" altId2="" counted="0" regVoters="0" name="2-6 - Martindale Gardens">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="10" ballotsCast="0" castPercentage="00.0" altId2="1" counted="0" regVoters="0" name="3-1 - Nassagaweya Community Ce">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="11" ballotsCast="0" castPercentage="00.0" altId2="1" counted="0" regVoters="0" name="3-2 - Nassagaweya Tennis Club ">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="12" ballotsCast="0" castPercentage="00.0" altId2="1" counted="0" regVoters="0" name="4-1 - Robert Baldwin Public Sc">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="13" ballotsCast="0" castPercentage="00.0" altId2="1" counted="0" regVoters="0" name="4-2 - Ecote St. Nicholas">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="14" ballotsCast="0" castPercentage="00.0" altId2="1" counted="0" regVoters="0" name="4-3 - Chris Hadfield Public Sc">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="15" ballotsCast="0" castPercentage="00.0" altId2="1" counted="0" regVoters="0" name="4-4 - Milton Leisure Centre">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="16" ballotsCast="0" castPercentage="00.0" altId2="1" counted="0" regVoters="0" name="4-5 - Bishop P. F. Reding Seco">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="17" ballotsCast="0" castPercentage="00.0" altId2="1" counted="0" regVoters="0" name="5-1 - E.C. Drury">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="18" ballotsCast="0" castPercentage="00.0" altId2="1" counted="0" regVoters="0" name="5-2 - E.W. Foster Public Schoo">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="19" ballotsCast="0" castPercentage="00.0" altId2="1" counted="0" regVoters="0" name="5-3 - St. Anthony of Padua">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="20" ballotsCast="0" castPercentage="00.0" altId2="2" counted="0" regVoters="0" name="5-4 - Bruce Trail Public Schoo">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="21" ballotsCast="0" castPercentage="00.0" altId2="2" counted="0" regVoters="0" name="5-5 - Allendale Long term Care">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="22" ballotsCast="0" castPercentage="00.0" altId2="2" counted="0" regVoters="0" name="6-1 - Guardian Angels Elementa">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="23" ballotsCast="0" castPercentage="00.0" altId2="2" counted="0" regVoters="0" name="6-2 - Hawthorne Village Public">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="24" ballotsCast="0" castPercentage="00.0" altId2="2" counted="0" regVoters="0" name="6-3 - Craig Keilburger High Sc">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="25" ballotsCast="0" castPercentage="00.0" altId2="2" counted="0" regVoters="0" name="7-1 - Jean Vanier Secondary Sc">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="26" ballotsCast="0" castPercentage="00.0" altId2="2" counted="0" regVoters="0" name="7-2 - Milton Sports Centre">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="27" ballotsCast="0" castPercentage="00.0" altId2="2" counted="0" regVoters="0" name="7-3 - Tiger Jeet Singh Public ">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="28" ballotsCast="0" castPercentage="00.0" altId2="2" counted="0" regVoters="0" name="7-4 - Our Lady of Fatima">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="29" ballotsCast="0" castPercentage="00.0" altId2="2" counted="0" regVoters="0" name="7-5 - Milton District Hospital">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="30" ballotsCast="0" castPercentage="00.0" altId2="3" counted="0" regVoters="0" name="7-6 - Birkdale Place">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="31" ballotsCast="0" castPercentage="00.0" altId2="3" counted="0" regVoters="0" name="8-1 - Escarpment View Public S">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="32" ballotsCast="0" castPercentage="00.0" altId2="3" counted="0" regVoters="0" name="8-2 - Escarpment View Public S">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="33" ballotsCast="0" castPercentage="00.0" altId2="3" counted="0" regVoters="0" name="8-3 - Lumen Christi Elementary">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="34" ballotsCast="0" castPercentage="00.0" altId2="3" counted="0" regVoters="0" name="8-4 - P.L. Robertson Public Sc">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="0" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="35" ballotsCast="311" castPercentage="00.0" altId2="3" counted="1" regVoters="0" name="1-1 - ADV POLL - Hugh Foster H">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="63" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="36" ballotsCast="311" castPercentage="00.0" altId2="3" counted="1" regVoters="0" name="1-2 - ADV POLL - Hugh Foster H">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="63" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="37" ballotsCast="311" castPercentage="00.0" altId2="3" counted="1" regVoters="0" name="1-3 - ADV POLL - Hugh Foster H">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="63" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="38" ballotsCast="311" castPercentage="00.0" altId2="3" counted="1" regVoters="0" name="1-4 - ADV POLL - Hugh Foster H">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="63" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="39" ballotsCast="311" castPercentage="00.0" altId2="3" counted="1" regVoters="0" name="1-5 - ADV POLL - Hugh Foster H">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="63" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="40" ballotsCast="311" castPercentage="00.0" altId2="4" counted="1" regVoters="0" name="2-1 - ADV POLL - Nassagaweya T">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="63" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="41" ballotsCast="311" castPercentage="00.0" altId2="4" counted="1" regVoters="0" name="3-1 - ADV POLL - Milton Mall  ">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="63" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+            </Precinct>
+            <Precinct id="42" ballotsCast="311" castPercentage="00.0" altId2="4" counted="1" regVoters="0" name="4-1 - ADV POLL - Milton Mall  ">
+                <PrecinctParty partyId="1" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="2" regVoters="0" ballotsCast="63" castPercentage="00.0" />
+                <PrecinctParty partyId="3" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="4" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+                <PrecinctParty partyId="5" regVoters="0" ballotsCast="62" castPercentage="00.0" />
+            </Precinct>
+        </Jurisdiction>
+    </JurisdictionMap>
+    <Election id="0" electionName="MILTON" electionTitle="" final="1" totalBallotsCast="2568" totalRegistration="0" totalCastPercentage="00.0" reportedRegistration="0" reportedPercentage="00.0" totalPrecincts="42" precinctsReported="10" precinctsReportedPercentage="23.81">
+        <ContestList>
+            <Contest id="101" altId2="" partyId="1" stateWide="1" title="MAYOR" typeCode="" voteFor="1" runoff="0" ballotsCast="2568" castPercentage="00.0" writeinVotes="0" overVotes="330" underVotes="918">
+                <Candidate id="1" altId2="" pos="1" name="Gord KRANTZ" partyId="1" winner="1" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">10</Votes>
+                    <Votes refPrecinctId="2">10</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="10">0</Votes>
+                    <Votes refPrecinctId="11">0</Votes>
+                    <Votes refPrecinctId="12">0</Votes>
+                    <Votes refPrecinctId="13">0</Votes>
+                    <Votes refPrecinctId="14">0</Votes>
+                    <Votes refPrecinctId="15">0</Votes>
+                    <Votes refPrecinctId="16">0</Votes>
+                    <Votes refPrecinctId="17">0</Votes>
+                    <Votes refPrecinctId="18">0</Votes>
+                    <Votes refPrecinctId="19">0</Votes>
+                    <Votes refPrecinctId="20">0</Votes>
+                    <Votes refPrecinctId="21">0</Votes>
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">80</Votes>
+                    <Votes refPrecinctId="36">80</Votes>
+                    <Votes refPrecinctId="37">80</Votes>
+                    <Votes refPrecinctId="38">80</Votes>
+                    <Votes refPrecinctId="39">80</Votes>
+                    <Votes refPrecinctId="40">80</Votes>
+                    <Votes refPrecinctId="41">80</Votes>
+                    <Votes refPrecinctId="42">80</Votes>
+                </Candidate>
+                <Candidate id="2" altId2="" pos="2" name="Stan LAZARSKI" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">5</Votes>
+                    <Votes refPrecinctId="2">5</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="10">0</Votes>
+                    <Votes refPrecinctId="11">0</Votes>
+                    <Votes refPrecinctId="12">0</Votes>
+                    <Votes refPrecinctId="13">0</Votes>
+                    <Votes refPrecinctId="14">0</Votes>
+                    <Votes refPrecinctId="15">0</Votes>
+                    <Votes refPrecinctId="16">0</Votes>
+                    <Votes refPrecinctId="17">0</Votes>
+                    <Votes refPrecinctId="18">0</Votes>
+                    <Votes refPrecinctId="19">0</Votes>
+                    <Votes refPrecinctId="20">0</Votes>
+                    <Votes refPrecinctId="21">0</Votes>
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">40</Votes>
+                    <Votes refPrecinctId="36">40</Votes>
+                    <Votes refPrecinctId="37">40</Votes>
+                    <Votes refPrecinctId="38">40</Votes>
+                    <Votes refPrecinctId="39">40</Votes>
+                    <Votes refPrecinctId="40">40</Votes>
+                    <Votes refPrecinctId="41">40</Votes>
+                    <Votes refPrecinctId="42">40</Votes>
+                </Candidate>
+                <Candidate id="3" altId2="" pos="3" name="Al VOLPE" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">5</Votes>
+                    <Votes refPrecinctId="2">5</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="10">0</Votes>
+                    <Votes refPrecinctId="11">0</Votes>
+                    <Votes refPrecinctId="12">0</Votes>
+                    <Votes refPrecinctId="13">0</Votes>
+                    <Votes refPrecinctId="14">0</Votes>
+                    <Votes refPrecinctId="15">0</Votes>
+                    <Votes refPrecinctId="16">0</Votes>
+                    <Votes refPrecinctId="17">0</Votes>
+                    <Votes refPrecinctId="18">0</Votes>
+                    <Votes refPrecinctId="19">0</Votes>
+                    <Votes refPrecinctId="20">0</Votes>
+                    <Votes refPrecinctId="21">0</Votes>
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">40</Votes>
+                    <Votes refPrecinctId="36">40</Votes>
+                    <Votes refPrecinctId="37">40</Votes>
+                    <Votes refPrecinctId="38">40</Votes>
+                    <Votes refPrecinctId="39">40</Votes>
+                    <Votes refPrecinctId="40">40</Votes>
+                    <Votes refPrecinctId="41">40</Votes>
+                    <Votes refPrecinctId="42">40</Votes>
+                </Candidate>
+            </Contest>
+            <Contest id="102" altId2="" partyId="1" stateWide="1" title="REGIONAL CHAIR" typeCode="" voteFor="1" runoff="0" ballotsCast="2568" castPercentage="00.0" writeinVotes="0" overVotes="0" underVotes="918">
+                <Candidate id="1" altId2="" pos="1" name="Gary CARR" partyId="1" winner="1" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">10</Votes>
+                    <Votes refPrecinctId="2">10</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="10">0</Votes>
+                    <Votes refPrecinctId="11">0</Votes>
+                    <Votes refPrecinctId="12">0</Votes>
+                    <Votes refPrecinctId="13">0</Votes>
+                    <Votes refPrecinctId="14">0</Votes>
+                    <Votes refPrecinctId="15">0</Votes>
+                    <Votes refPrecinctId="16">0</Votes>
+                    <Votes refPrecinctId="17">0</Votes>
+                    <Votes refPrecinctId="18">0</Votes>
+                    <Votes refPrecinctId="19">0</Votes>
+                    <Votes refPrecinctId="20">0</Votes>
+                    <Votes refPrecinctId="21">0</Votes>
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">80</Votes>
+                    <Votes refPrecinctId="36">80</Votes>
+                    <Votes refPrecinctId="37">80</Votes>
+                    <Votes refPrecinctId="38">80</Votes>
+                    <Votes refPrecinctId="39">80</Votes>
+                    <Votes refPrecinctId="40">80</Votes>
+                    <Votes refPrecinctId="41">80</Votes>
+                    <Votes refPrecinctId="42">80</Votes>
+                </Candidate>
+                <Candidate id="2" altId2="" pos="2" name="Syed A. NAQVI" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">5</Votes>
+                    <Votes refPrecinctId="2">5</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="10">0</Votes>
+                    <Votes refPrecinctId="11">0</Votes>
+                    <Votes refPrecinctId="12">0</Votes>
+                    <Votes refPrecinctId="13">0</Votes>
+                    <Votes refPrecinctId="14">0</Votes>
+                    <Votes refPrecinctId="15">0</Votes>
+                    <Votes refPrecinctId="16">0</Votes>
+                    <Votes refPrecinctId="17">0</Votes>
+                    <Votes refPrecinctId="18">0</Votes>
+                    <Votes refPrecinctId="19">0</Votes>
+                    <Votes refPrecinctId="20">0</Votes>
+                    <Votes refPrecinctId="21">0</Votes>
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">40</Votes>
+                    <Votes refPrecinctId="36">40</Votes>
+                    <Votes refPrecinctId="37">40</Votes>
+                    <Votes refPrecinctId="38">40</Votes>
+                    <Votes refPrecinctId="39">40</Votes>
+                    <Votes refPrecinctId="40">40</Votes>
+                    <Votes refPrecinctId="41">40</Votes>
+                    <Votes refPrecinctId="42">40</Votes>
+                </Candidate>
+                <Candidate id="3" altId2="" pos="3" name="John PAULIC" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">5</Votes>
+                    <Votes refPrecinctId="2">5</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="10">0</Votes>
+                    <Votes refPrecinctId="11">0</Votes>
+                    <Votes refPrecinctId="12">0</Votes>
+                    <Votes refPrecinctId="13">0</Votes>
+                    <Votes refPrecinctId="14">0</Votes>
+                    <Votes refPrecinctId="15">0</Votes>
+                    <Votes refPrecinctId="16">0</Votes>
+                    <Votes refPrecinctId="17">0</Votes>
+                    <Votes refPrecinctId="18">0</Votes>
+                    <Votes refPrecinctId="19">0</Votes>
+                    <Votes refPrecinctId="20">0</Votes>
+                    <Votes refPrecinctId="21">0</Votes>
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">40</Votes>
+                    <Votes refPrecinctId="36">40</Votes>
+                    <Votes refPrecinctId="37">40</Votes>
+                    <Votes refPrecinctId="38">40</Votes>
+                    <Votes refPrecinctId="39">40</Votes>
+                    <Votes refPrecinctId="40">40</Votes>
+                    <Votes refPrecinctId="41">40</Votes>
+                    <Votes refPrecinctId="42">40</Votes>
+                </Candidate>
+                <Candidate id="4" altId2="" pos="4" name="Greg WOODRUFF" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">5</Votes>
+                    <Votes refPrecinctId="2">5</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="10">0</Votes>
+                    <Votes refPrecinctId="11">0</Votes>
+                    <Votes refPrecinctId="12">0</Votes>
+                    <Votes refPrecinctId="13">0</Votes>
+                    <Votes refPrecinctId="14">0</Votes>
+                    <Votes refPrecinctId="15">0</Votes>
+                    <Votes refPrecinctId="16">0</Votes>
+                    <Votes refPrecinctId="17">0</Votes>
+                    <Votes refPrecinctId="18">0</Votes>
+                    <Votes refPrecinctId="19">0</Votes>
+                    <Votes refPrecinctId="20">0</Votes>
+                    <Votes refPrecinctId="21">0</Votes>
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">40</Votes>
+                    <Votes refPrecinctId="36">40</Votes>
+                    <Votes refPrecinctId="37">40</Votes>
+                    <Votes refPrecinctId="38">40</Votes>
+                    <Votes refPrecinctId="39">40</Votes>
+                    <Votes refPrecinctId="40">40</Votes>
+                    <Votes refPrecinctId="41">40</Votes>
+                    <Votes refPrecinctId="42">40</Votes>
+                </Candidate>
+            </Contest>
+            <Contest id="103" altId2="" partyId="1" stateWide="1" title="LOCAL &amp; REGIONAL COUNCILLOR WARDS 1, 6, 7, 8" typeCode="" voteFor="1" runoff="0" ballotsCast="1328" castPercentage="00.0" writeinVotes="0" overVotes="0" underVotes="478">
+                <Candidate id="1" altId2="" pos="1" name="Mian ABUBAQR" partyId="1" winner="1" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">10</Votes>
+                    <Votes refPrecinctId="2">10</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">40</Votes>
+                    <Votes refPrecinctId="36">40</Votes>
+                    <Votes refPrecinctId="37">40</Votes>
+                    <Votes refPrecinctId="38">40</Votes>
+                    <Votes refPrecinctId="39">40</Votes>
+                    <Votes refPrecinctId="40">40</Votes>
+                    <Votes refPrecinctId="41">40</Votes>
+                    <Votes refPrecinctId="42">40</Votes>
+                </Candidate>
+                <Candidate id="2" altId2="" pos="2" name="Mike CLUETT" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">5</Votes>
+                    <Votes refPrecinctId="2">5</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">20</Votes>
+                    <Votes refPrecinctId="36">20</Votes>
+                    <Votes refPrecinctId="37">20</Votes>
+                    <Votes refPrecinctId="38">20</Votes>
+                    <Votes refPrecinctId="39">20</Votes>
+                    <Votes refPrecinctId="40">20</Votes>
+                    <Votes refPrecinctId="41">20</Votes>
+                    <Votes refPrecinctId="42">20</Votes>
+                </Candidate>
+                <Candidate id="3" altId2="" pos="3" name="Kristin COLLVER" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">5</Votes>
+                    <Votes refPrecinctId="2">5</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">20</Votes>
+                    <Votes refPrecinctId="36">20</Votes>
+                    <Votes refPrecinctId="37">20</Votes>
+                    <Votes refPrecinctId="38">20</Votes>
+                    <Votes refPrecinctId="39">20</Votes>
+                    <Votes refPrecinctId="40">20</Votes>
+                    <Votes refPrecinctId="41">20</Votes>
+                    <Votes refPrecinctId="42">20</Votes>
+                </Candidate>
+                <Candidate id="4" altId2="" pos="4" name="Tony LAMBERT" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">5</Votes>
+                    <Votes refPrecinctId="2">5</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">20</Votes>
+                    <Votes refPrecinctId="36">20</Votes>
+                    <Votes refPrecinctId="37">20</Votes>
+                    <Votes refPrecinctId="38">20</Votes>
+                    <Votes refPrecinctId="39">20</Votes>
+                    <Votes refPrecinctId="40">20</Votes>
+                    <Votes refPrecinctId="41">20</Votes>
+                    <Votes refPrecinctId="42">20</Votes>
+                </Candidate>
+            </Contest>
+            <Contest id="104" altId2="" partyId="1" stateWide="1" title="LOCAL &amp; REGIONAL COUNCILLOR WARDS 2, 3, 4, 5" typeCode="" voteFor="1" runoff="0" ballotsCast="1240" castPercentage="00.0" writeinVotes="0" overVotes="0" underVotes="760">
+                <Candidate id="1" altId2="" pos="1" name="Colin BEST" partyId="1" winner="1" runoff="0" recount="0">
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="10">0</Votes>
+                    <Votes refPrecinctId="11">0</Votes>
+                    <Votes refPrecinctId="12">0</Votes>
+                    <Votes refPrecinctId="13">0</Votes>
+                    <Votes refPrecinctId="14">0</Votes>
+                    <Votes refPrecinctId="15">0</Votes>
+                    <Votes refPrecinctId="16">0</Votes>
+                    <Votes refPrecinctId="17">0</Votes>
+                    <Votes refPrecinctId="18">0</Votes>
+                    <Votes refPrecinctId="19">0</Votes>
+                    <Votes refPrecinctId="20">0</Votes>
+                    <Votes refPrecinctId="21">0</Votes>
+                    <Votes refPrecinctId="35">40</Votes>
+                    <Votes refPrecinctId="36">40</Votes>
+                    <Votes refPrecinctId="37">40</Votes>
+                    <Votes refPrecinctId="38">40</Votes>
+                    <Votes refPrecinctId="39">40</Votes>
+                    <Votes refPrecinctId="40">40</Votes>
+                    <Votes refPrecinctId="41">40</Votes>
+                    <Votes refPrecinctId="42">40</Votes>
+                </Candidate>
+                <Candidate id="2" altId2="" pos="2" name="Kulwant DEOL" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="10">0</Votes>
+                    <Votes refPrecinctId="11">0</Votes>
+                    <Votes refPrecinctId="12">0</Votes>
+                    <Votes refPrecinctId="13">0</Votes>
+                    <Votes refPrecinctId="14">0</Votes>
+                    <Votes refPrecinctId="15">0</Votes>
+                    <Votes refPrecinctId="16">0</Votes>
+                    <Votes refPrecinctId="17">0</Votes>
+                    <Votes refPrecinctId="18">0</Votes>
+                    <Votes refPrecinctId="19">0</Votes>
+                    <Votes refPrecinctId="20">0</Votes>
+                    <Votes refPrecinctId="21">0</Votes>
+                    <Votes refPrecinctId="35">20</Votes>
+                    <Votes refPrecinctId="36">20</Votes>
+                    <Votes refPrecinctId="37">20</Votes>
+                    <Votes refPrecinctId="38">20</Votes>
+                    <Votes refPrecinctId="39">20</Votes>
+                    <Votes refPrecinctId="40">20</Votes>
+                    <Votes refPrecinctId="41">20</Votes>
+                    <Votes refPrecinctId="42">20</Votes>
+                </Candidate>
+            </Contest>
+            <Contest id="105" altId2="" partyId="1" stateWide="1" title="COUNCILLOR WARD 1" typeCode="" voteFor="1" runoff="0" ballotsCast="400" castPercentage="00.0" writeinVotes="0" overVotes="0" underVotes="100">
+                <Candidate id="1" altId2="" pos="1" name="Sharon BARKLEY" partyId="1" winner="1" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">10</Votes>
+                    <Votes refPrecinctId="2">10</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="35">10</Votes>
+                    <Votes refPrecinctId="36">10</Votes>
+                    <Votes refPrecinctId="37">10</Votes>
+                    <Votes refPrecinctId="38">10</Votes>
+                    <Votes refPrecinctId="39">10</Votes>
+                    <Votes refPrecinctId="40">10</Votes>
+                    <Votes refPrecinctId="41">10</Votes>
+                    <Votes refPrecinctId="42">10</Votes>
+                </Candidate>
+                <Candidate id="2" altId2="" pos="2" name="Robert DUVALL" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">5</Votes>
+                    <Votes refPrecinctId="2">5</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+                <Candidate id="3" altId2="" pos="3" name="Michael LUZAR" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">5</Votes>
+                    <Votes refPrecinctId="2">5</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+                <Candidate id="4" altId2="" pos="4" name="Danielle MASANTO" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">5</Votes>
+                    <Votes refPrecinctId="2">5</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+                <Candidate id="5" altId2="" pos="5" name="Karin TOMOSKY-CHAMBERS" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">5</Votes>
+                    <Votes refPrecinctId="2">5</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+            </Contest>
+            <Contest id="106" altId2="" partyId="1" stateWide="1" title="COUNCILLOR WARD 2" typeCode="" voteFor="1" runoff="0" ballotsCast="400" castPercentage="00.0" writeinVotes="0" overVotes="0" underVotes="80">
+                <Candidate id="1" altId2="" pos="1" name="Mike BOUGHTON" partyId="1" winner="1" runoff="0" recount="0">
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="35">10</Votes>
+                    <Votes refPrecinctId="36">10</Votes>
+                    <Votes refPrecinctId="37">10</Votes>
+                    <Votes refPrecinctId="38">10</Votes>
+                    <Votes refPrecinctId="39">10</Votes>
+                    <Votes refPrecinctId="40">10</Votes>
+                    <Votes refPrecinctId="41">10</Votes>
+                    <Votes refPrecinctId="42">10</Votes>
+                </Candidate>
+                <Candidate id="2" altId2="" pos="2" name="John BOUWERS" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+                <Candidate id="3" altId2="" pos="3" name="Ryan DEVRIES" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+                <Candidate id="4" altId2="" pos="4" name="Scott PRIOR" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+                <Candidate id="5" altId2="" pos="5" name="Jennifer SMITH" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+                <Candidate id="6" altId2="" pos="6" name="Ian THOMPSON" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+                <Candidate id="7" altId2="" pos="7" name="Joe YAWORSKI" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+            </Contest>
+            <Contest id="107" altId2="" partyId="1" stateWide="1" title="COUNCILLOR WARD 3" typeCode="" voteFor="1" runoff="0" ballotsCast="280" castPercentage="00.0" writeinVotes="0" overVotes="0" underVotes="160">
+                <Candidate id="1" altId2="" pos="1" name="Keith HESSE" partyId="1" winner="1" runoff="0" recount="0">
+                    <Votes refPrecinctId="10">0</Votes>
+                    <Votes refPrecinctId="11">0</Votes>
+                    <Votes refPrecinctId="35">10</Votes>
+                    <Votes refPrecinctId="36">10</Votes>
+                    <Votes refPrecinctId="37">10</Votes>
+                    <Votes refPrecinctId="38">10</Votes>
+                    <Votes refPrecinctId="39">10</Votes>
+                    <Votes refPrecinctId="40">10</Votes>
+                    <Votes refPrecinctId="41">10</Votes>
+                    <Votes refPrecinctId="42">10</Votes>
+                </Candidate>
+                <Candidate id="2" altId2="" pos="2" name="Cindy LUNAU" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="10">0</Votes>
+                    <Votes refPrecinctId="11">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+            </Contest>
+            <Contest id="108" altId2="" partyId="1" stateWide="1" title="COUNCILLOR WARD 4" typeCode="" voteFor="1" runoff="0" ballotsCast="280" castPercentage="00.0" writeinVotes="0" overVotes="0" underVotes="80">
+                <Candidate id="1" altId2="" pos="1" name="Rana AHLUWALIA" partyId="1" winner="1" runoff="0" recount="0">
+                    <Votes refPrecinctId="12">0</Votes>
+                    <Votes refPrecinctId="13">0</Votes>
+                    <Votes refPrecinctId="14">0</Votes>
+                    <Votes refPrecinctId="15">0</Votes>
+                    <Votes refPrecinctId="16">0</Votes>
+                    <Votes refPrecinctId="35">10</Votes>
+                    <Votes refPrecinctId="36">10</Votes>
+                    <Votes refPrecinctId="37">10</Votes>
+                    <Votes refPrecinctId="38">10</Votes>
+                    <Votes refPrecinctId="39">10</Votes>
+                    <Votes refPrecinctId="40">10</Votes>
+                    <Votes refPrecinctId="41">10</Votes>
+                    <Votes refPrecinctId="42">10</Votes>
+                </Candidate>
+                <Candidate id="2" altId2="" pos="2" name="Harjot GREWAL" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="12">0</Votes>
+                    <Votes refPrecinctId="13">0</Votes>
+                    <Votes refPrecinctId="14">0</Votes>
+                    <Votes refPrecinctId="15">0</Votes>
+                    <Votes refPrecinctId="16">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+                <Candidate id="3" altId2="" pos="3" name="Rick MALBOEUF" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="12">0</Votes>
+                    <Votes refPrecinctId="13">0</Votes>
+                    <Votes refPrecinctId="14">0</Votes>
+                    <Votes refPrecinctId="15">0</Votes>
+                    <Votes refPrecinctId="16">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+                <Candidate id="4" altId2="" pos="4" name="Giles VANDER HOLT" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="12">0</Votes>
+                    <Votes refPrecinctId="13">0</Votes>
+                    <Votes refPrecinctId="14">0</Votes>
+                    <Votes refPrecinctId="15">0</Votes>
+                    <Votes refPrecinctId="16">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+            </Contest>
+            <Contest id="109" altId2="" partyId="1" stateWide="1" title="COUNCILLOR WARD 5" typeCode="" voteFor="1" runoff="0" ballotsCast="280" castPercentage="00.0" writeinVotes="0" overVotes="0" underVotes="80">
+                <Candidate id="1" altId2="" pos="1" name="Michael BUGALA" partyId="1" winner="1" runoff="0" recount="0">
+                    <Votes refPrecinctId="17">0</Votes>
+                    <Votes refPrecinctId="18">0</Votes>
+                    <Votes refPrecinctId="19">0</Votes>
+                    <Votes refPrecinctId="20">0</Votes>
+                    <Votes refPrecinctId="21">0</Votes>
+                    <Votes refPrecinctId="35">10</Votes>
+                    <Votes refPrecinctId="36">10</Votes>
+                    <Votes refPrecinctId="37">10</Votes>
+                    <Votes refPrecinctId="38">10</Votes>
+                    <Votes refPrecinctId="39">10</Votes>
+                    <Votes refPrecinctId="40">10</Votes>
+                    <Votes refPrecinctId="41">10</Votes>
+                    <Votes refPrecinctId="42">10</Votes>
+                </Candidate>
+                <Candidate id="2" altId2="" pos="2" name="Steve GREEN" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="17">0</Votes>
+                    <Votes refPrecinctId="18">0</Votes>
+                    <Votes refPrecinctId="19">0</Votes>
+                    <Votes refPrecinctId="20">0</Votes>
+                    <Votes refPrecinctId="21">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+                <Candidate id="3" altId2="" pos="3" name="Arnold HUFFMAN" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="17">0</Votes>
+                    <Votes refPrecinctId="18">0</Votes>
+                    <Votes refPrecinctId="19">0</Votes>
+                    <Votes refPrecinctId="20">0</Votes>
+                    <Votes refPrecinctId="21">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+                <Candidate id="4" altId2="" pos="4" name="Mohammad YASIN" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="17">0</Votes>
+                    <Votes refPrecinctId="18">0</Votes>
+                    <Votes refPrecinctId="19">0</Votes>
+                    <Votes refPrecinctId="20">0</Votes>
+                    <Votes refPrecinctId="21">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+            </Contest>
+            <Contest id="110" altId2="" partyId="1" stateWide="1" title="COUNCILLOR WARD 6" typeCode="" voteFor="1" runoff="0" ballotsCast="320" castPercentage="00.0" writeinVotes="0" overVotes="0" underVotes="80">
+                <Candidate id="1" altId2="" pos="1" name="Kashif ABRAR" partyId="1" winner="1" runoff="0" recount="0">
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="35">10</Votes>
+                    <Votes refPrecinctId="36">10</Votes>
+                    <Votes refPrecinctId="37">10</Votes>
+                    <Votes refPrecinctId="38">10</Votes>
+                    <Votes refPrecinctId="39">10</Votes>
+                    <Votes refPrecinctId="40">10</Votes>
+                    <Votes refPrecinctId="41">10</Votes>
+                    <Votes refPrecinctId="42">10</Votes>
+                </Candidate>
+                <Candidate id="2" altId2="" pos="2" name="Rubina ALI" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+                <Candidate id="3" altId2="" pos="3" name="Alex ANABUSI" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+                <Candidate id="4" altId2="" pos="4" name="Malcolm KELLY" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+                <Candidate id="5" altId2="" pos="5" name="John POLLARD" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+            </Contest>
+            <Contest id="111" altId2="" partyId="1" stateWide="1" title="COUNCILLOR WARD 7" typeCode="" voteFor="1" runoff="0" ballotsCast="288" castPercentage="00.0" writeinVotes="0" overVotes="0" underVotes="88">
+                <Candidate id="1" altId2="" pos="1" name="Sadiq AL-ALI" partyId="1" winner="1" runoff="0" recount="0">
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="35">10</Votes>
+                    <Votes refPrecinctId="36">10</Votes>
+                    <Votes refPrecinctId="37">10</Votes>
+                    <Votes refPrecinctId="38">10</Votes>
+                    <Votes refPrecinctId="39">10</Votes>
+                    <Votes refPrecinctId="40">10</Votes>
+                    <Votes refPrecinctId="41">10</Votes>
+                    <Votes refPrecinctId="42">10</Votes>
+                </Candidate>
+                <Candidate id="2" altId2="" pos="2" name="Iram AMJAD" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+                <Candidate id="3" altId2="" pos="3" name="Winston DAWES" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+                <Candidate id="4" altId2="" pos="4" name="Rick DI LORENZO" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+            </Contest>
+            <Contest id="112" altId2="" partyId="1" stateWide="1" title="COUNCILLOR WARD 8" typeCode="" voteFor="1" runoff="0" ballotsCast="320" castPercentage="00.0" writeinVotes="0" overVotes="0" underVotes="80">
+                <Candidate id="1" altId2="" pos="1" name="Zeeshan HAMID" partyId="1" winner="1" runoff="0" recount="0">
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">10</Votes>
+                    <Votes refPrecinctId="36">10</Votes>
+                    <Votes refPrecinctId="37">10</Votes>
+                    <Votes refPrecinctId="38">10</Votes>
+                    <Votes refPrecinctId="39">10</Votes>
+                    <Votes refPrecinctId="40">10</Votes>
+                    <Votes refPrecinctId="41">10</Votes>
+                    <Votes refPrecinctId="42">10</Votes>
+                </Candidate>
+                <Candidate id="2" altId2="" pos="2" name="Sohail KHAN" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+                <Candidate id="3" altId2="" pos="3" name="Ryan MCLAUGHLIN" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+                <Candidate id="4" altId2="" pos="4" name="Nimmi SINGH" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+                <Candidate id="5" altId2="" pos="5" name="Maqsood SOOMRO" partyId="1" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">5</Votes>
+                    <Votes refPrecinctId="36">5</Votes>
+                    <Votes refPrecinctId="37">5</Votes>
+                    <Votes refPrecinctId="38">5</Votes>
+                    <Votes refPrecinctId="39">5</Votes>
+                    <Votes refPrecinctId="40">5</Votes>
+                    <Votes refPrecinctId="41">5</Votes>
+                    <Votes refPrecinctId="42">5</Votes>
+                </Candidate>
+            </Contest>
+            <Contest id="113" altId2="" partyId="2" stateWide="1" title="TRUSTEE Wards 1, 6, 7, 8" typeCode="" voteFor="1" runoff="0" ballotsCast="272" castPercentage="00.0" writeinVotes="0" overVotes="0" underVotes="68">
+                <Candidate id="1" altId2="" pos="1" name="Davinder BHATIA" partyId="2" winner="1" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">2</Votes>
+                    <Votes refPrecinctId="2">2</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">8</Votes>
+                    <Votes refPrecinctId="36">8</Votes>
+                    <Votes refPrecinctId="37">8</Votes>
+                    <Votes refPrecinctId="38">8</Votes>
+                    <Votes refPrecinctId="39">8</Votes>
+                    <Votes refPrecinctId="40">8</Votes>
+                    <Votes refPrecinctId="41">8</Votes>
+                    <Votes refPrecinctId="42">8</Votes>
+                </Candidate>
+                <Candidate id="2" altId2="" pos="2" name="Kim GRAVES" partyId="2" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">1</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">4</Votes>
+                    <Votes refPrecinctId="36">4</Votes>
+                    <Votes refPrecinctId="37">4</Votes>
+                    <Votes refPrecinctId="38">4</Votes>
+                    <Votes refPrecinctId="39">4</Votes>
+                    <Votes refPrecinctId="40">4</Votes>
+                    <Votes refPrecinctId="41">4</Votes>
+                    <Votes refPrecinctId="42">4</Votes>
+                </Candidate>
+                <Candidate id="3" altId2="" pos="3" name="Jaideep KALA" partyId="2" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">1</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">4</Votes>
+                    <Votes refPrecinctId="36">4</Votes>
+                    <Votes refPrecinctId="37">4</Votes>
+                    <Votes refPrecinctId="38">4</Votes>
+                    <Votes refPrecinctId="39">4</Votes>
+                    <Votes refPrecinctId="40">4</Votes>
+                    <Votes refPrecinctId="41">4</Votes>
+                    <Votes refPrecinctId="42">4</Votes>
+                </Candidate>
+                <Candidate id="4" altId2="" pos="4" name="Syed RAZA" partyId="2" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">1</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">4</Votes>
+                    <Votes refPrecinctId="36">4</Votes>
+                    <Votes refPrecinctId="37">4</Votes>
+                    <Votes refPrecinctId="38">4</Votes>
+                    <Votes refPrecinctId="39">4</Votes>
+                    <Votes refPrecinctId="40">4</Votes>
+                    <Votes refPrecinctId="41">4</Votes>
+                    <Votes refPrecinctId="42">4</Votes>
+                </Candidate>
+                <Candidate id="5" altId2="" pos="5" name="Nik THAKKAR" partyId="2" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">1</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">4</Votes>
+                    <Votes refPrecinctId="36">4</Votes>
+                    <Votes refPrecinctId="37">4</Votes>
+                    <Votes refPrecinctId="38">4</Votes>
+                    <Votes refPrecinctId="39">4</Votes>
+                    <Votes refPrecinctId="40">4</Votes>
+                    <Votes refPrecinctId="41">4</Votes>
+                    <Votes refPrecinctId="42">4</Votes>
+                </Candidate>
+            </Contest>
+            <Contest id="114" altId2="" partyId="2" stateWide="1" title="TRUSTEE Wards 2, 3, 4, 5" typeCode="" voteFor="1" runoff="0" ballotsCast="248" castPercentage="00.0" writeinVotes="0" overVotes="0" underVotes="152">
+                <Candidate id="1" altId2="" pos="1" name="Donna DANIELLI" partyId="2" winner="1" runoff="0" recount="0">
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="10">0</Votes>
+                    <Votes refPrecinctId="11">0</Votes>
+                    <Votes refPrecinctId="12">0</Votes>
+                    <Votes refPrecinctId="13">0</Votes>
+                    <Votes refPrecinctId="14">0</Votes>
+                    <Votes refPrecinctId="15">0</Votes>
+                    <Votes refPrecinctId="16">0</Votes>
+                    <Votes refPrecinctId="17">0</Votes>
+                    <Votes refPrecinctId="18">0</Votes>
+                    <Votes refPrecinctId="19">0</Votes>
+                    <Votes refPrecinctId="20">0</Votes>
+                    <Votes refPrecinctId="21">0</Votes>
+                    <Votes refPrecinctId="35">8</Votes>
+                    <Votes refPrecinctId="36">8</Votes>
+                    <Votes refPrecinctId="37">8</Votes>
+                    <Votes refPrecinctId="38">8</Votes>
+                    <Votes refPrecinctId="39">8</Votes>
+                    <Votes refPrecinctId="40">8</Votes>
+                    <Votes refPrecinctId="41">8</Votes>
+                    <Votes refPrecinctId="42">8</Votes>
+                </Candidate>
+                <Candidate id="2" altId2="" pos="2" name="Asad NAQVI" partyId="2" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="10">0</Votes>
+                    <Votes refPrecinctId="11">0</Votes>
+                    <Votes refPrecinctId="12">0</Votes>
+                    <Votes refPrecinctId="13">0</Votes>
+                    <Votes refPrecinctId="14">0</Votes>
+                    <Votes refPrecinctId="15">0</Votes>
+                    <Votes refPrecinctId="16">0</Votes>
+                    <Votes refPrecinctId="17">0</Votes>
+                    <Votes refPrecinctId="18">0</Votes>
+                    <Votes refPrecinctId="19">0</Votes>
+                    <Votes refPrecinctId="20">0</Votes>
+                    <Votes refPrecinctId="21">0</Votes>
+                    <Votes refPrecinctId="35">4</Votes>
+                    <Votes refPrecinctId="36">4</Votes>
+                    <Votes refPrecinctId="37">4</Votes>
+                    <Votes refPrecinctId="38">4</Votes>
+                    <Votes refPrecinctId="39">4</Votes>
+                    <Votes refPrecinctId="40">4</Votes>
+                    <Votes refPrecinctId="41">4</Votes>
+                    <Votes refPrecinctId="42">4</Votes>
+                </Candidate>
+            </Contest>
+            <Contest id="115" altId2="" partyId="3" stateWide="1" title="TRUSTEE ENGLISH SEPARATE 1-8" typeCode="" voteFor="1" runoff="0" ballotsCast="512" castPercentage="00.0" writeinVotes="0" overVotes="0" underVotes="512">
+                <Candidate id="1" altId2="" pos="1" name="ACCLAIMED" partyId="3" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">0</Votes>
+                    <Votes refPrecinctId="2">0</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="10">0</Votes>
+                    <Votes refPrecinctId="11">0</Votes>
+                    <Votes refPrecinctId="12">0</Votes>
+                    <Votes refPrecinctId="13">0</Votes>
+                    <Votes refPrecinctId="14">0</Votes>
+                    <Votes refPrecinctId="15">0</Votes>
+                    <Votes refPrecinctId="16">0</Votes>
+                    <Votes refPrecinctId="17">0</Votes>
+                    <Votes refPrecinctId="18">0</Votes>
+                    <Votes refPrecinctId="19">0</Votes>
+                    <Votes refPrecinctId="20">0</Votes>
+                    <Votes refPrecinctId="21">0</Votes>
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">0</Votes>
+                    <Votes refPrecinctId="36">0</Votes>
+                    <Votes refPrecinctId="37">0</Votes>
+                    <Votes refPrecinctId="38">0</Votes>
+                    <Votes refPrecinctId="39">0</Votes>
+                    <Votes refPrecinctId="40">0</Votes>
+                    <Votes refPrecinctId="41">0</Votes>
+                    <Votes refPrecinctId="42">0</Votes>
+                </Candidate>
+            </Contest>
+            <Contest id="116" altId2="" partyId="4" stateWide="1" title="MEMBER FRENCH PUBLIC 1-8" typeCode="" voteFor="1" runoff="0" ballotsCast="512" castPercentage="00.0" writeinVotes="0" overVotes="0" underVotes="314">
+                <Candidate id="1" altId2="" pos="1" name="Malika ATTOU" partyId="4" winner="1" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">2</Votes>
+                    <Votes refPrecinctId="2">2</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="10">0</Votes>
+                    <Votes refPrecinctId="11">0</Votes>
+                    <Votes refPrecinctId="12">0</Votes>
+                    <Votes refPrecinctId="13">0</Votes>
+                    <Votes refPrecinctId="14">0</Votes>
+                    <Votes refPrecinctId="15">0</Votes>
+                    <Votes refPrecinctId="16">0</Votes>
+                    <Votes refPrecinctId="17">0</Votes>
+                    <Votes refPrecinctId="18">0</Votes>
+                    <Votes refPrecinctId="19">0</Votes>
+                    <Votes refPrecinctId="20">0</Votes>
+                    <Votes refPrecinctId="21">0</Votes>
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">16</Votes>
+                    <Votes refPrecinctId="36">16</Votes>
+                    <Votes refPrecinctId="37">16</Votes>
+                    <Votes refPrecinctId="38">16</Votes>
+                    <Votes refPrecinctId="39">16</Votes>
+                    <Votes refPrecinctId="40">16</Votes>
+                    <Votes refPrecinctId="41">16</Votes>
+                    <Votes refPrecinctId="42">16</Votes>
+                </Candidate>
+                <Candidate id="2" altId2="" pos="2" name="Pierre GIROUARD" partyId="4" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">1</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="10">0</Votes>
+                    <Votes refPrecinctId="11">0</Votes>
+                    <Votes refPrecinctId="12">0</Votes>
+                    <Votes refPrecinctId="13">0</Votes>
+                    <Votes refPrecinctId="14">0</Votes>
+                    <Votes refPrecinctId="15">0</Votes>
+                    <Votes refPrecinctId="16">0</Votes>
+                    <Votes refPrecinctId="17">0</Votes>
+                    <Votes refPrecinctId="18">0</Votes>
+                    <Votes refPrecinctId="19">0</Votes>
+                    <Votes refPrecinctId="20">0</Votes>
+                    <Votes refPrecinctId="21">0</Votes>
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">8</Votes>
+                    <Votes refPrecinctId="36">8</Votes>
+                    <Votes refPrecinctId="37">8</Votes>
+                    <Votes refPrecinctId="38">8</Votes>
+                    <Votes refPrecinctId="39">8</Votes>
+                    <Votes refPrecinctId="40">8</Votes>
+                    <Votes refPrecinctId="41">8</Votes>
+                    <Votes refPrecinctId="42">8</Votes>
+                </Candidate>
+            </Contest>
+            <Contest id="117" altId2="" partyId="5" stateWide="1" title="MEMBER FRENCH SEPARATE 1-8" typeCode="" voteFor="1" runoff="0" ballotsCast="512" castPercentage="00.0" writeinVotes="0" overVotes="0" underVotes="314">
+                <Candidate id="1" altId2="" pos="1" name="Dominique JANSSENS" partyId="5" winner="1" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">2</Votes>
+                    <Votes refPrecinctId="2">2</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="10">0</Votes>
+                    <Votes refPrecinctId="11">0</Votes>
+                    <Votes refPrecinctId="12">0</Votes>
+                    <Votes refPrecinctId="13">0</Votes>
+                    <Votes refPrecinctId="14">0</Votes>
+                    <Votes refPrecinctId="15">0</Votes>
+                    <Votes refPrecinctId="16">0</Votes>
+                    <Votes refPrecinctId="17">0</Votes>
+                    <Votes refPrecinctId="18">0</Votes>
+                    <Votes refPrecinctId="19">0</Votes>
+                    <Votes refPrecinctId="20">0</Votes>
+                    <Votes refPrecinctId="21">0</Votes>
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">16</Votes>
+                    <Votes refPrecinctId="36">16</Votes>
+                    <Votes refPrecinctId="37">16</Votes>
+                    <Votes refPrecinctId="38">16</Votes>
+                    <Votes refPrecinctId="39">16</Votes>
+                    <Votes refPrecinctId="40">16</Votes>
+                    <Votes refPrecinctId="41">16</Votes>
+                    <Votes refPrecinctId="42">16</Votes>
+                </Candidate>
+                <Candidate id="2" altId2="" pos="2" name="Rafik MORCOS" partyId="5" winner="0" runoff="0" recount="0">
+                    <Votes refPrecinctId="1">1</Votes>
+                    <Votes refPrecinctId="2">1</Votes>
+                    <Votes refPrecinctId="3">0</Votes>
+                    <Votes refPrecinctId="4">0</Votes>
+                    <Votes refPrecinctId="5">0</Votes>
+                    <Votes refPrecinctId="6">0</Votes>
+                    <Votes refPrecinctId="7">0</Votes>
+                    <Votes refPrecinctId="8">0</Votes>
+                    <Votes refPrecinctId="9">0</Votes>
+                    <Votes refPrecinctId="10">0</Votes>
+                    <Votes refPrecinctId="11">0</Votes>
+                    <Votes refPrecinctId="12">0</Votes>
+                    <Votes refPrecinctId="13">0</Votes>
+                    <Votes refPrecinctId="14">0</Votes>
+                    <Votes refPrecinctId="15">0</Votes>
+                    <Votes refPrecinctId="16">0</Votes>
+                    <Votes refPrecinctId="17">0</Votes>
+                    <Votes refPrecinctId="18">0</Votes>
+                    <Votes refPrecinctId="19">0</Votes>
+                    <Votes refPrecinctId="20">0</Votes>
+                    <Votes refPrecinctId="21">0</Votes>
+                    <Votes refPrecinctId="22">0</Votes>
+                    <Votes refPrecinctId="23">0</Votes>
+                    <Votes refPrecinctId="24">0</Votes>
+                    <Votes refPrecinctId="25">0</Votes>
+                    <Votes refPrecinctId="26">0</Votes>
+                    <Votes refPrecinctId="27">0</Votes>
+                    <Votes refPrecinctId="28">0</Votes>
+                    <Votes refPrecinctId="29">0</Votes>
+                    <Votes refPrecinctId="30">0</Votes>
+                    <Votes refPrecinctId="31">0</Votes>
+                    <Votes refPrecinctId="32">0</Votes>
+                    <Votes refPrecinctId="33">0</Votes>
+                    <Votes refPrecinctId="34">0</Votes>
+                    <Votes refPrecinctId="35">8</Votes>
+                    <Votes refPrecinctId="36">8</Votes>
+                    <Votes refPrecinctId="37">8</Votes>
+                    <Votes refPrecinctId="38">8</Votes>
+                    <Votes refPrecinctId="39">8</Votes>
+                    <Votes refPrecinctId="40">8</Votes>
+                    <Votes refPrecinctId="41">8</Votes>
+                    <Votes refPrecinctId="42">8</Votes>
+                </Candidate>
+            </Contest>
+        </ContestList>
+    </Election>
+</Owner>
