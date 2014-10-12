@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>Election Results</title>
+
+		<script>
+
+			// 
+			var XML_RESULTS_URL = "http://ec2-54-172-90-242.compute-1.amazonaws.com/MILTON_Results.XML";
+
+			/*
+			 *
+			 */
+			var onBodyLoad = function() {
+				var xmlDoc = getResultsXML();
+				var resultsModel = buildResultsModel(xmlDoc);
+				renderResults(resultsModel);
+			};	
+
+			/*
+			 * 
+			 */
+			var getResultsXML = function() {
+				
+				if (window.XMLHttpRequest) {
+					// IE7+, Firefox, Chrome, Opera, Safari
+					xmlhttp = new XMLHttpRequest();
+				} else {
+					// IE5, IE6
+					xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+				}
+				
+				xmlhttp.open("GET", XML_RESULTS_URL, false);				
+				xmlhttp.send();
+
+				return xmlhttp.responseXML;
+			};
+
+			/*
+			 *
+			 */
+			var buildResultsModel = function(xmlDoc) {
+
+				var resultsModelJSON = {};
+
+				var reportTimeELM = xmlDoc.getElementsByTagName("ReportTime")[0];
+				var electionELM = xmlDoc.getElementsByTagName("Election")[0];
+				var contestELMs = xmlDoc.getElementsByTagName("Contest");
+
+				resultsModelJSON["reportTime"] = reportTimeELM.childNodes[0].nodeValue;
+
+				var electionJSON = {};
+				electionJSON["name"] = electionELM.getAttribute("electionName");
+				electionJSON["totalPrecincts"] = electionELM.getAttribute("totalPrecincts");
+				electionJSON["precinctsReported"] = electionELM.getAttribute("precinctsReported");
+				electionJSON["contests"] = [];
+
+				for (var i = 0; i < contestELMs.length; i++) {
+					
+					var contestELM = contestELMs[i];
+					var contestJSON = {};
+					contestJSON["name"] = contestELM.getAttribute("title");
+					contestJSON["candidates"] = [];
+					var candidateELMs = contestELM.getElementsByTagName("Candidate");
+
+					for (var j = 0; j < candidateELMs.length; j++) {
+
+						var candidateELM = candidateELMs[j];
+						var candidateJSON = {};
+						candidateJSON["name"] = candidateELM.getAttribute("name");
+
+						var voteCount = 0;
+						votesELMs = candidateELM.getElementsByTagName("Votes");
+						for (var k = 0; k < votesELMs.length; k++) {
+							voteCount += parseInt(votesELMs[k].firstChild.nodeValue);
+						}
+
+						candidateJSON["votes"] = voteCount;
+						contestJSON["candidates"].push(candidateJSON);
+					}
+
+					electionJSON["contests"].push(contestJSON);
+				}
+
+				resultsModelJSON["election"] = electionJSON;
+				return resultsModelJSON;
+			};
+
+			/*
+			 *
+			 */
+			var renderResults = function(resultsModel) {
+				document.getElementById("content").innerHTML = renderElectionHTML(resultsModel.election);
+			};
+
+			/*
+			 *
+			 */
+			var renderElectionHTML = function(electionJSON) {
+
+				var html = "";
+				html += "<h1>" + electionJSON.name + " Election Results" + "</h1>";
+				html += "<br/>";
+				html += electionJSON.precinctsReported + " locations reported | " + electionJSON.totalPrecincts + " voting locations ";
+				html += "<br/>";
+				for (var i = 0; i < electionJSON.contests.length; i++) {
+					html += renderContestHTML(electionJSON.contests[i]);
+					html += "<br/>";
+				}
+
+				return html;
+			};
+
+			/*
+			 *
+			 */
+			var renderContestHTML = function(contestJSON) {
+
+				var html = "";
+				html += "<h4>" + contestJSON.name + "</h4>";
+				html += "<table>"
+				for (var i = 0; i < contestJSON.candidates.length; i++) {
+					var candidate = contestJSON.candidates[i];
+					html += "<tr>";
+					html += "<td>" + candidate.name + "</td>";
+					html += "<td>" + candidate.votes + "</td>";
+					html += "</tr>";
+				}
+				html += "</table>";
+
+				return html;
+			};
+			
+		</script>
+
+	</head>
+
+	<body onload="onBodyLoad()">
+		<div id="content"></div>
+	</body>
+
+</html>
